@@ -1,5 +1,7 @@
 kafka:
-  topic: products
+    topic:
+      offers: offers
+      products: products
 meli:
   scrapping:
     delay: 30 * * * * *
